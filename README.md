@@ -12,7 +12,7 @@ Clone the app from 'https://github.com/kishanravindra/Travenu.git' .
 * [npm run ios](#npm-run-ios)
 * [npm run android](#npm-run-android)
 
-##To Run on real deviceandroid
+##To run on real device 
  * [npm start](#npm-start)
  
  Make sure you have Installed Expo app on your iPhone or Android Device.
