@@ -1,7 +1,9 @@
 
 # Travenu
-https://img.shields.io/badge/Reactnative--red.svg
-https://img.shields.io/badge/Redux-true-yellow.svg
+
+
+[![npm](https://img.shields.io/badge/Reactnative--red.svg)](https://www.npmjs.com/package/react-native-smart-badge)
+[![npm](https://img.shields.io/badge/Redux-true-yellow.svg)](https://www.npmjs.com/package/react-native-smart-badge)
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Clone the app from 'https://github.com/kishanravindra/Travenu.git' .
