@@ -1,0 +1,8 @@
+{
+   "extends": "rallycoding",
+   "rules": {
+     "arrow-body-style": 0,
+     "Unexpected require().  (global-require)": 0,
+     "'fetch' is not defined.  (no-undef)": 0
+    }
+}
